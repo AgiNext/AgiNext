@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to AgiNext 👋<br><br>
+  Welcome to AgiNext 👋<br>
 </h2>
 <p align="center">
   We create next-generation agrometeorology for NSC2022 project.<br><br>
